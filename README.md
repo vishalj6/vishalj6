@@ -1,8 +1,14 @@
+![MasterHead](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBji9B3hkC40RGZfaG9lpFsMEJIAIA8l2eDEM1gh9jijoEY50u9of9JXLNWKSh1ooFVGpaUqMWTkuXnKnuEWKrxvk1vTQ=w1920-h907)
+
+
+<img align="right" alt="Coding" width="300" src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif">
+
 # 💫 About Me:
 - 🔭 I’m currently working on [Social Media (MERN)](https://github.com/vishalj6/SocialMedia-MERN)
 - 🌱 I’m currently learning Next.js, Typescript, MySQL
 - 💬 Ask me about MERN stack
 - 📫 How to reach me jadejavishal6@gmail.com
+
 
 
 ## 🌐 Socials:

@@ -1,7 +1,5 @@
-![MasterHead](https://lh3.googleusercontent.com/u/0/drive-viewer/AK7aPaBji9B3hkC40RGZfaG9lpFsMEJIAIA8l2eDEM1gh9jijoEY50u9of9JXLNWKSh1ooFVGpaUqMWTkuXnKnuEWKrxvk1vTQ=w1920-h907)
+![MasterHead](https://media.licdn.com/dms/image/D5616AQEPOVvyR-Da_Q/profile-displaybackgroundimage-shrink_350_1400/0/1697634083785?e=1726704000&v=beta&t=5rkbtpEuT21H6JW0N7jpPWRpHLhlv_jVjU_GHYgFbmQ)
 
-
-<img align="right" alt="Coding" width="300" src="https://media.tenor.com/q4L3wKD-P7YAAAAj/hydra-we-bhack.gif">
 
 # 💫 About Me:
 - 🔭 I’m currently working on [Social Media (MERN)](https://github.com/vishalj6/SocialMedia-MERN)
